@@ -1,3 +1,8 @@
+#### Name: [Harshit Jaiswal](https://github.com/iharshitjaiswal)
+ - Place: Prayagraj,India.
+ - bio: Third Year Computer science Student 
+ - Github: [iharshitjaiswal](https://github.com/iharshitjaiswal)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
